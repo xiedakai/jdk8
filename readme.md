@@ -1,7 +1,7 @@
 
 ## 目录(Contents)
 
-- **[jdk8新的编程思想](jdk8新的编程思想.md)**
+- **[jdk8新的编程思想](doc/jdk8新的编程思想.md)**
 
 - 为什么出现函数式编程 lamda stream？
 
